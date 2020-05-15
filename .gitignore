@@ -13,3 +13,8 @@ missing
 *.tar.gz
 *.tar.xz
 *.tar.bz2
+debian/.debhelper/
+debian/files
+debian/lbnl-nhc.debhelper.log
+debian/lbnl-nhc.substvars
+debian/lbnl-nhc/

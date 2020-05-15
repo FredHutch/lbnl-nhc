@@ -1,0 +1,8 @@
+From: =?utf-8?q?R=C3=A9mi_Palancher?= <remi-externe.palancher@edf.fr>
+Date: Thu, 22 Jun 2017 16:28:07 +0200
+Subject: ignore node status booted by slurm
+
+---
+ helpers/node-mark-offline | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
